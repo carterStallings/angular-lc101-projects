@@ -1,0 +1,11 @@
+h3 {
+    color:purple;
+    font-size: 18px;
+    text-decoration: underline;
+}
+
+li {
+    color: peru;
+    font-size: 18px;
+    font-style: italic;
+}
